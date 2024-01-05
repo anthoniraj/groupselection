@@ -1,7 +1,7 @@
 Student Project Group Slection based on their interested Domain and Title
 Modules
  1. Session Implemented for entire Project
- 2. MySQL DB have been used for users and project title
+ 2. Upgraded to SQLITE to MySQL DB
  3. Ajax was implemented for checking title availability
  
 Constraints
